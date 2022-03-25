@@ -1,5 +1,6 @@
 # 🚀 Getting Started
 
+First of all I assumed that the input file will be valid as I've not added any validation for the file.
 ## Quick Start
 To run this project you should have nodejs installed on your computer and then clone this repository into your computer using this command
 ```sh
